@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-repo/PayVPN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-repo/vpn_backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new-repo/vpn_tg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tgBotSvetlyachok" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yookassaVpn" vcs="Git" />
+  </component>
+</project>
